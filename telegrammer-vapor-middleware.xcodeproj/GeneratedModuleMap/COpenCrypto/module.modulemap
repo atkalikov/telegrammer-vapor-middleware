@@ -1,0 +1,4 @@
+module COpenCrypto {
+    umbrella "/Users/atkalikov/dev/telegrammer-vapor-middleware/.build/checkouts/open-crypto/Sources/COpenCrypto/include"
+    export *
+}

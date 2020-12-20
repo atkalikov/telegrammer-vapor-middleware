@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/Users/atkalikov/dev/telegrammer-vapor-middleware/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}

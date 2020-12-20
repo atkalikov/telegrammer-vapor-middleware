@@ -1,0 +1,4 @@
+module CBacktrace {
+    umbrella "/Users/atkalikov/dev/telegrammer-vapor-middleware/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
+    export *
+}

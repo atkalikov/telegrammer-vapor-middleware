@@ -1,0 +1,4 @@
+module CMultipartParser {
+    umbrella "/Users/atkalikov/dev/telegrammer-vapor-middleware/.build/checkouts/multipart-kit/Sources/CMultipartParser/include"
+    export *
+}
